@@ -134,10 +134,22 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
-## 📞 Contact
+## 📞 Support
 
-For questions, issues or feature requests, open an issue or contact the maintainer.
+If you have any questions or need help, feel free to:
+
+- Open an issue on GitHub
+- Send me an email: singsandeep971@gmail.com
+- Connect on LinkedIn: https://www.linkedin.com/in/sandeep-kumar-161948272/
+
 
 ---
 
-*Made with ❤️ — update the demo links, API env vars, and screenshots before publishing.*
+<div align="center">
+
+### ⭐ Star this repository if you found it helpful!
+
+Made with ❤️ by Sandeep
+
+
+</div>
