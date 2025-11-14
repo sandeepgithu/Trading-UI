@@ -1,16 +1,143 @@
-# React + Vite
+# 📈 Trading Dashboard — React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18.2.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
 
-Currently, two official plugins are available:
+A modern, responsive trading dashboard built with React that provides real-time trading insights, portfolio management, and market analytics.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Live Demo:** *https://sandeepgithu.github.io/Trading.uI/*
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+### 🏠 Home Dashboard
+
+* **Real-time Market Data** — Live forex, crypto, and indices prices
+* **Interactive Charts** — Price movements with technical indicators
+* **Watchlist** — Personalized trading pairs monitoring
+* **Category Tabs** — Easy navigation between Forex, Crypto, Indices, and Derivatives
+
+### 💼 Trading Interface
+
+* **Buy/Sell Orders** — One-click trading execution
+* **Price Alerts** — Custom price level notifications
+* **Order Management** — Track open positions and pending orders
+* **Risk Management** — Stop-loss and take-profit controls
+
+### 📊 Portfolio Management
+
+* **Portfolio Overview** — Total balance and performance metrics
+* **Position Tracking** — Real-time P/L calculations
+* **Trade History** — Complete transaction history
+* **Performance Analytics** — Win rate and profitability analysis
+
+### 👤 User Profile
+
+* **Account Management** — Personal information and preferences
+* **Security Settings** — Two-factor authentication and security controls
+* **Notification Center** — Customizable alert preferences
+* **Transaction History** — Detailed trade records and statements
+
+---
+
+## 🛠 Technology Stack
+
+**Frontend**
+
+* React 18 — Modern React with hooks and functional components
+* CSS3 — Custom responsive design with Flexbox and Grid
+* Material Icons — Clean and consistent iconography
+* Responsive Design — Mobile-first approach
+
+**Key Features**
+
+* ⚡ Fast Performance — Optimized rendering and state management
+* 📱 Mobile Responsive — Seamless experience across all devices
+* 🎨 Modern UI/UX — Dark theme with professional trading aesthetics
+* 🔒 Type Safety — PropTypes for component validation
+* ♿ Accessibility — WCAG compliant design
+
+---
+
+## 🚀 Quick Start
+
+**Prerequisites**
+
+* Node.js 16+
+* npm or yarn
+
+**Install & Run**
+
+```bash
+# clone repo
+git clone <your-repo-url>
+cd <your-repo-folder>
+
+# install dependencies
+npm install
+# or
+# yarn install
+
+# run development server
+npm start
+# or
+# yarn start
+
+# build for production
+npm run build
+# or
+# yarn build
+```
+
+**Environment variables (example)**
+
+```
+REACT_APP_API_URL=https://api.example.com
+REACT_APP_SOCKET_URL=wss://ws.example.com
+```
+
+---
+
+## ✅ How to Contribute
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m "feat: add ..."`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+Please follow the code style and add/update tests where applicable.
+
+---
+
+## 🧪 Testing
+
+* Unit tests: Add instructions if using Jest/React Testing Library
+* E2E tests: Add instructions if using Cypress or Playwright
+
+---
+
+## 📦 Deployment
+
+Describe preferred deployment platforms (Vercel, Netlify, AWS Amplify) and CI/CD steps.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See `LICENSE` for details.
+
+---
+
+## 📞 Contact
+
+For questions, issues or feature requests, open an issue or contact the maintainer.
+
+---
+
+*Made with ❤️ — update the demo links, API env vars, and screenshots before publishing.*
